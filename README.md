@@ -1,2 +1,2 @@
 # cucumber-bdd-with-datatables
-#This test uses githook
+#The idea is to use githook but it don't seem to work
