@@ -1,4 +1,4 @@
-#added to githook
+#mvn exec:java -Dexec.classpathScope=test -Dexec.mainClass=io.cucumber.core.cli.Main
 Feature: User Login Feature
 
   Scenario: User Login scenario
